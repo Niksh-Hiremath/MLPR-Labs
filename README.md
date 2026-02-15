@@ -8,10 +8,18 @@
 
 ---
 
-### Lab 1 - Chromosome Feature Extraction
+## Lab 1 - Chromosome Feature Extraction
 
 Date: 15 January 2026
 
 Report: **[View Here](Lab%201/README.md)**
+
+---
+
+## Lab 2 - K-Means Clustering and Elbow Method
+
+Date: 22 January 2026
+
+Report: **[View Here](Lab%202/README.md)**
 
 ---
