@@ -31,3 +31,11 @@ Date: 29 January 2026
 Report: **[View Here](Lab%203/README.md)**
 
 ---
+
+## Lab 4 - Linear Discriminant Analysis for Color Classification
+
+Date: 5 February 2026
+
+Report: **[View Here](Lab%204/README.md)**
+
+---
