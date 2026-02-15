@@ -39,3 +39,11 @@ Date: 5 February 2026
 Report: **[View Here](Lab%204/README.md)**
 
 ---
+
+## Lab 5 - Face Detection and KMeans Clustering Based Classification
+
+Date: 12 February 2026
+
+Report: **[View Here](Lab%205/README.md)**
+
+---
