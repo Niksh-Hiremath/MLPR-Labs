@@ -23,3 +23,11 @@ Date: 22 January 2026
 Report: **[View Here](Lab%202/README.md)**
 
 ---
+
+## Lab 3 - Principal Component Analysis on Satellite Image
+
+Date: 29 January 2026
+
+Report: **[View Here](Lab%203/README.md)**
+
+---
