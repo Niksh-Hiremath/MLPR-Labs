@@ -47,3 +47,11 @@ Date: 12 February 2026
 Report: **[View Here](Lab%205/README.md)**
 
 ---
+
+## Lab 6 - K-Nearest Neighbors Classification
+
+Date: 19 February 2026
+
+Report: **[View Here](Lab%206/lab6.ipynb)**
+
+---
