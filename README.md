@@ -55,3 +55,11 @@ Date: 19 February 2026
 Report: **[View Here](Lab%206/lab6.ipynb)**
 
 ---
+
+## Lab 7 - Support Vector Classifier
+
+Date: 26 February 2026
+
+Report: **[View Here](Lab%207/lab7.ipynb)**
+
+---
