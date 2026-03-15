@@ -63,3 +63,11 @@ Date: 26 February 2026
 Report: **[View Here](Lab%207/lab7.ipynb)**
 
 ---
+
+## Lab 8 - Semi-Supervised Learning
+
+Date: 5 March 2026
+
+Report: **[View Here](Lab%208/lab8.ipynb)**
+
+---
