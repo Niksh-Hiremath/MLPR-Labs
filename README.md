@@ -71,3 +71,11 @@ Date: 5 March 2026
 Report: **[View Here](Lab%208/lab8.ipynb)**
 
 ---
+
+## Lab 9 - Text Classification using TF-IDF and Random Forest
+
+Date: 19 March 2026
+
+Report: **[View Here](Lab%209/lab9.ipynb)**
+
+---
