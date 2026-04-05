@@ -79,3 +79,11 @@ Date: 19 March 2026
 Report: **[View Here](Lab%209/lab9.ipynb)**
 
 ---
+
+## Lab 10 - Perceptron Learning
+
+Date: 2 April 2026
+
+Report: **[View Here](Lab%2010/lab10.ipynb)**
+
+---
