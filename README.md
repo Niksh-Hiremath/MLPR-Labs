@@ -87,3 +87,11 @@ Date: 2 April 2026
 Report: **[View Here](Lab%2010/lab10.ipynb)**
 
 ---
+
+## Lab 11 - XOR Problem with Neural Networks
+
+Date: 9 April 2026
+
+Report: **[View Here](Lab%2011/lab11.ipynb)**
+
+---
