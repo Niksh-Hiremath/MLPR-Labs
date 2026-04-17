@@ -95,3 +95,11 @@ Date: 9 April 2026
 Report: **[View Here](Lab%2011/lab11.ipynb)**
 
 ---
+
+## Lab 12 - Neural Network for Fertility Classification
+
+Date: 16 April 2026
+
+Report: **[View Here](Lab%2012/lab12.ipynb)**
+
+---
