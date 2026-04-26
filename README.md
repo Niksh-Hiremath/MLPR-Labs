@@ -103,3 +103,11 @@ Date: 16 April 2026
 Report: **[View Here](Lab%2012/lab12.ipynb)**
 
 ---
+
+## Lab 13 - Convolutional Neural Networks for MNIST Classification
+
+Date: 23 April 2026
+
+Report: **[View Here](Lab%2013/lab13.ipynb)**
+
+---
