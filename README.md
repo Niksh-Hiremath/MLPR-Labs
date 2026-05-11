@@ -111,3 +111,11 @@ Date: 23 April 2026
 Report: **[View Here](Lab%2013/lab13.ipynb)**
 
 ---
+
+## Lab 14 - Indian Currency Note Classification using ResNet-50
+
+Date: 30 April 2026
+
+Report: **[View Here](Lab%2014/lab14.ipynb)**
+
+---
