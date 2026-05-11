@@ -119,3 +119,11 @@ Date: 30 April 2026
 Report: **[View Here](Lab%2014/lab14.ipynb)**
 
 ---
+
+## Lab 15 - Human Activity Recognition using LSTM
+
+Date: 30 April 2026
+
+Report: **[View Here](Lab%2015/lab15.ipynb)**
+
+---
